@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "ESPButtonPlus.h"
+#include "ESPButton.h"
 
 #define PIN_BUTTON 0 // Use the Flash-Button of NodeMCU
 #define LONG_PRESS_TIME 100
